@@ -1,4 +1,4 @@
 const notesContainer = document.querySelector(".notes-container");
 
 notesContainer.addEventListener("click", () => {});
-console.log("Hello w");
+console.log("Hello world");
